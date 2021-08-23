@@ -1,6 +1,9 @@
 Amigos - An app that lets you get grouped with like-minded people. 
 This is helpful in bringing together people of similar hobbies.
 
+video: https://drive.google.com/file/d/18AHRNDFDfhh5pv53G5U8Mb_n03dy0BFD/view
+
+medium blog: https://medium.com/newolf-society/amigos-we-build-our-community-based-on-your-interests-752e7edcfc14
 
 Tech Used:
 Dart programming language (Flutter) used for building the app.
