@@ -1,4 +1,4 @@
-Amigos - An app that lets you get grouped with like-minded people. 
+# Amigos - An app that lets you get grouped with like-minded people. 
 This is helpful in bringing together people of similar hobbies.
 
 video: https://drive.google.com/file/d/18AHRNDFDfhh5pv53G5U8Mb_n03dy0BFD/view
